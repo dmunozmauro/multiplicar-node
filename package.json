@@ -1,0 +1,16 @@
+{
+  "name": "03-calculadora",
+  "version": "2.0.0",
+  "description": "Es una aplicacion de linea de comando",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Muñoz",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.1.1"
+  },
+  "devDependencies": {}
+}
